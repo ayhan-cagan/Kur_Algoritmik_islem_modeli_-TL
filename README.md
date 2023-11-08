@@ -12,7 +12,7 @@ MSE = Varyans + Yanlılık karesi + Düşürülemeyen hata
 
 Modeli eğitim ve test seti üzerinden değerlendirmek için Learning Curve grafiği üzerinde yorumlar yapılmıştır..
 
-![açıklama](learning_curve.jpg)
+![açıklama](learning_curve.png)
 
 Grafiği VARYANS açısından incelersek doğrulama skoru ile öğrenme scoru arasındaki fark azaldıkça varyans azalır demektir. iki öğrenme eğrisi arasındaki fark azalarak stabil hale geldiği için modelin varyans sorunu yoktur yani model train ile öğrenme setinde iyi performans göstermisse test seti doğrulama seti için de iyi performans göstericektir.
 
