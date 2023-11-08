@@ -1,4 +1,4 @@
-# Kur_Algoritmik_islem_modeli_-TL
+# Kur_Algoritmik_islem_modeli
 
 Yahoofinance verileri kullanılarak ilgili tarih Aselsan hisse değeri ve ilgili tarih $/tl kuru verileri çekilmiştir Bu veriler üzerinden ilk olarak Durağanlık kavramı incelenmiş olup veriye finans piyasalarında yaygın olarak kullanılan analizler eklenmiştir...
 
